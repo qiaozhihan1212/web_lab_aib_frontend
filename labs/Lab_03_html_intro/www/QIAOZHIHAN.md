@@ -34,4 +34,4 @@
 ```
 
 ### открывающая страница сайта
-![открывающая страница сайта](https://github.com/CITG-Space-Pet/web_lab_aib_frontend/tree/main/labs/Lab_03_html_intro/www/1.png)
+![открывающая страница сайта](https://github.com/qiaozhihan1212/web_lab_aib_frontend/blob/main/labs/Lab_03_html_intro/www/1.png)
